@@ -80,24 +80,6 @@
 
 <body onmousedown="return false" onselectstart="return false">
 
-<?php
-$agent=" ".$HTTP_USER_AGENT;
-
-if (strpos($agent,"DISCo Pump") ||
-    strpos($agent,"Offline Explorer") ||
-    strpos($agent,"Teleport") ||
-    strpos($agent,"WebZIP") ||
-    strpos($agent,"WebCopier") ||
-    strpos($agent,"Wget") ||
-    strpos($agent,"FlashGet") ||
-    strpos($agent,"CIS TE") ||
-    strpos($agent,"DTS Agent") ||
-    strpos($agent,"WebReaper") ||
-    strpos($agent,"HTTrack") ||
-    strpos($agent,"Web Downloader")) {
-    die("Access Denied");
-    }
-    ?>
 <style>body{overflow:hidden}</style>
 <script>disableWheelScroll();</script>
 <div id="star" class="video mask overlay">
@@ -119,10 +101,7 @@ if (strpos($agent,"DISCo Pump") ||
 <div class="titles fadeInDown">
 <h1>Kiritosi4</h1>
 <div class="bann">
-<p>▶ <?php
-$ip=$_SERVER['REMOTE_ADDR'];
-echo $ip;
-?> выезжаю</p>
+<p>...</p>
 </div>
 </div>
 <div class="media fadeInUp">
