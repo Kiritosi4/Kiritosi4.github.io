@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<META NAME="Keywords" CONTENT="Kiritosi4, KupuTocu4">
+<META NAME="Description" CONTENT="Site by Kiritosi4">
+<META NAME="Author" CONTENT="Kiritosi4">
+<META NAME="Copyright" CONTENT="© Kiritosi4 2018">
+<META NAME="Robots" CONTENT="INDEX,NOFOLLOW">
+
+<title>Kiritosi4❤</title>
+<link href="./index_files/core.css" rel="stylesheet">
+<link href="./index_files/animate.css" rel="stylesheet">
+<link rel="shortcut icon" href="images/ss.png" type="image/x-icon">
+<link href="./index_files/font-awesome.min.css" rel="stylesheet">
+<script src="./index_files/jquery.js"></script>
+<script src="./index_files/bootstrap.min.js"></script>
+<script src="./index_files/modernizr.custom.js"></script>
+<script src="./index_files/plugins.min.js"></script>
+<script src="./index_files/main.js"></script>
+<style>@font-face {font-family: 'Boycott';src: url('webfonts/36A4FB_0_0.eot');src: url('webfonts/36A4FB_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/36A4FB_0_0.woff2') format('woff2'),url('webfonts/36A4FB_0_0.woff') format('woff'),url('webfonts/36A4FB_0_0.ttf') format('truetype');} h1{font-family: 'Boycott'; color: white;   text-transform: uppercase;
+  letter-spacing: 2px; -webkit-animation: hotline-miami 7s ease-out infinite;} @-webkit-keyframes hotline-miami {
+  15% {
+    margin-left: 0;
+    text-shadow: none;
+  }
+  
+  45%, 55% {
+    margin-left: 0.3em;
+    text-shadow:
+    -2px 0 #fff,
+    -4px 0 #FFE6E9,
+    -6px 0 #FFD4DA,
+    -8px 0 #FCBCC5,
+    -10px 0 #FEA9B6,
+    -12px 0 #FC95A6,
+    -14px 0 #FF8297,
+    -16px 0 #FF738B,
+    -18px 0 #FF647E,
+    -20px 0 #FF516E,
+    -22px 0 #FF3F5F,
+    -24px 0 #FF2D50,
+    -26px 0 #FF2045,
+    -28px 0 #FC143A,
+    -30px 0 #FC0C34,
+    -32px 0 #FF001F;
+  }
+  
+}</style>
+<script> 
+	document.onkeydown = function(e) { 
+	if (e.ctrlKey && (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 || e.keyCode === 117)) {//GAVNO
+	} 
+	return false; 
+	}; 
+	</script>
+<script> 
+	function click() { 
+	if (event.button==2||event.button==3) { 
+	oncontextmenu='return false'; 
+	} 
+	} 
+	document.onmousedown=click 
+	document.oncontextmenu = new Function("return false;") 
+	</script>
+<script>
+	function disableWheelScroll(){
+	if (document.body.addEventListener) document.body.addEventListener('DOMMouseScroll', blockWheel, false);
+	document.body.onmousewheel = blockWheel;
+	}
+	function blockWheel(event){
+	if (!event) event = window.event;
+	if (event.stopPropagation) event.stopPropagation();
+	else event.cancelBubble = true;
+	if(event.preventDefault) event.preventDefault();
+	else event.returnValue = false;
+	}
+	disableWheelScroll();
+	</script>
+</head>
+
+<body onmousedown="return false" onselectstart="return false">
+
+<?php
+$agent=" ".$HTTP_USER_AGENT;
+
+if (strpos($agent,"DISCo Pump") ||
+    strpos($agent,"Offline Explorer") ||
+    strpos($agent,"Teleport") ||
+    strpos($agent,"WebZIP") ||
+    strpos($agent,"WebCopier") ||
+    strpos($agent,"Wget") ||
+    strpos($agent,"FlashGet") ||
+    strpos($agent,"CIS TE") ||
+    strpos($agent,"DTS Agent") ||
+    strpos($agent,"WebReaper") ||
+    strpos($agent,"HTTrack") ||
+    strpos($agent,"Web Downloader")) {
+    die("Access Denied");
+    }
+    ?>
+<style>body{overflow:hidden}</style>
+<script>disableWheelScroll();</script>
+<div id="star" class="video mask overlay">
+<div class="video-fallback"></div>
+<video id="vid1" preload="auto" autoplay="" loop="">
+  <source src="https://kiritosi4onel.000webhostapp.com/vid/huy.mp4" type="video/mp4">
+</video>
+<canvas class="cover"></canvas>
+</div>
+<div class="pageoverlay">
+	<div class="bg-animation">
+<div id="stars"></div>
+<div id="stars2"></div>
+<div id="stars3"></div>
+<div id="stars4"></div>
+</div>
+<div class="lightbox">
+<div class="awrapper">
+<div class="titles fadeInDown">
+<h1>Kiritosi4</h1>
+<div class="bann">
+<p>▶ <?php
+$ip=$_SERVER['REMOTE_ADDR'];
+echo $ip;
+?> выезжаю</p>
+</div>
+</div>
+<div class="media fadeInUp">
+
+<a href="https://www.youtube.com/user/Adam45andMademan" target="">
+<i class="fa fa-youtube"></i>
+</a>
+
+<a href="https://vk.com/id478117047" id="vk" target="_blank">
+<i class="fa fa-vk"></i>
+</a>
+<a href="http://steamcommunity.com/id/Firamiiir/" target="">
+<i class="fa fa-steam"></i>
+</div>
+</div>
+</div>
+</div>
+</body></html>
